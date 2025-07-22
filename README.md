@@ -140,7 +140,7 @@ passionate full stack developer from belgrade with a keen eye for detail and a l
 [![portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://spejsvin.dev)
 [![email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lazar@spejsvin.dev)
 
-**discord:** spejsvin#1337 • **telegram:** @spejsvin
+**discord:** spejsvin • **telegram:** @few3goods
 
 </div>
 
@@ -182,7 +182,7 @@ passionate full stack developer from belgrade with a keen eye for detail and a l
 
 ### *"code with passion, debug with patience, deploy with confidence"*
 
-**thanks for visiting my digital space ✦**
+**thanks for visiting my git ✦**
 
 *always open to interesting conversations and collaboration opportunities*
 
